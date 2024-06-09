@@ -1,6 +1,6 @@
 # Desafio Classificador de Nível de Herói
 
-Projeto realizado para o desafio Classificador de Nível de Herói do curso Base em Lógica de Programação para Jogos no BootCamp Santader: Criando Jogos com Godot.
+Projeto realizado para o desafio Classificador de Nível de Herói do curso Base em Lógica de Programação para Jogos no BootCamp Santader: Criando Jogos com Godot da [DIO](https://www.dio.me/).
 
 ## Detalhes do Desafio
 
